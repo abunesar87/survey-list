@@ -1,0 +1,26 @@
+{
+    "survey_not_found": "Survey not found!",
+    "survey_already_exists": "A survey called '{}' already exists!",
+    "survey_error_inserting": "An error occured while creating the survey!",
+    "survey_deleted": "Survey deleted!",
+
+    "user_survey_not_found": "User Survey not found!",
+    "user_survey_already_exists": "A User Survey called '{}' already exists!",
+    "user_survey_error_inserting": "An error occured while creating the User Survey!",
+    "user_survey_deleted": "User Survey deleted!",
+
+    "question_not_found": "Question not found!",
+    "question_already_exists": "A question called '{}' already exists!",
+    "question_error_inserting": "An error occured while inserting the question!",
+    "question_deleted": "Question deleted!",
+
+    "score_type_not_found": "Score Type not found!",
+    "score_type_already_exists": "A Score Type called '{}' already exists!",
+    "score_type_error_inserting": "An error occured while inserting the Score Type!",
+    "score_type_deleted": "Score Type deleted!",
+
+    "person_id_not_found": "Person ID not found!",
+    "person_id_already_exists": "A Person ID called '{}' already exists!",
+    "person_id_error_inserting": "An error occured while inserting the Person ID!",
+    "person_id_deleted": "Person ID deleted!"
+}

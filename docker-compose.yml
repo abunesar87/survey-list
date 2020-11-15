@@ -1,0 +1,78 @@
+version: "3.7"
+
+services:
+
+  code: 
+    build: ./code
+    container_name: survey_api
+    restart: always
+    ports:
+      - "5001:5000"
+    sysctls:
+      - net.core.somaxconn=65535
+    env_file: 
+      - ./.env
+    volumes:
+      - .:/code
+    links:
+      - db
+    depends_on: 
+      - db
+    networks: 
+      - survey
+
+  nginx:
+    build: ./nginx
+    container_name: survey_nginx
+    restart: always
+    ports:
+      - "8001:8001"
+    depends_on: 
+      - code
+    networks: 
+      - survey
+
+  db:
+    image: postgres:12-alpine
+    container_name: survey_postgresql
+    restart: always
+    ports:
+      - "32001:5432"
+    environment:
+    - POSTGRES_USER=postgres
+    - POSTGRES_PASSWORD=postgres
+    - POSTGRES_DB=fukujuji_hospital_db
+    - PGPASSWORD=adminpostgres
+    volumes:
+      - ./db/data:/var/lib/postgresql/data
+      - ./db/sql:/docker-entrypoint-initdb.d
+    networks: 
+      - survey
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: survey_pgadmin
+    ports:
+      - 8000:80
+    environment: 
+      - PGADMIN_DEFAULT_EMAIL=user@domain.com
+      - PGADMIN_DEFAULT_PASSWORD=password
+    depends_on: 
+      - db
+    networks:
+        - survey
+  
+  ui:
+    build: ./ui
+    container_name: survey_ui
+    restart: always
+    expose:
+      - 80
+    ports: 
+      - "80:80"
+    networks: 
+      - survey
+
+networks:
+  survey:
+    driver: bridge

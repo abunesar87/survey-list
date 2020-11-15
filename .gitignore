@@ -1,0 +1,21 @@
+.vscode/*
+!.vscode/settings.json
+.DS_Store
+__pycache__
+*.pyc
+venv
+db/data/
+.env
+
+# node_modules folder
+ui/node_modules
+
+# log files
+ui/npm-debug.log
+ui/pnpm-debug.log
+ui/yarn-debug.log
+ui/yarn-error.log
+
+# package lock files
+ui/package-lock.json
+ui/pnpm-lock.yaml

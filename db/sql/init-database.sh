@@ -1,0 +1,1 @@
+psql -u docker -pdocker fukujuji_hospital_db < "/docker-entrypoint-initdb.d/001-create-tables.sql"

@@ -1,0 +1,1836 @@
+{
+    "title":{
+       "default":"QUALITY OF LIFE QUESTIONNAIRE – BRONCHIECTASIS",
+       "ja":"生活の質に関する質問–気管支炎"
+    },
+    "pages":[
+       {
+          "name":"page1",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"1",
+                "title":{
+                   "default":"Performing vigorous activities, such as gardening or exercising",
+                   "ja":"庭仕事や運動など活発な活動"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"A lot of difficulty",
+                         "ja":"非常に難しかった"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Moderate difficulty",
+                         "ja":"ある程度難しかった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little difficulty",
+                         "ja":"少し難しかった"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"No difficulty",
+                         "ja":"難しくなかった"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week, to what extent have you had difficulty:",
+             "ja":"過去1週間で、下記の事柄がどのくらい難しかったかをお答えください"
+          }
+       },
+       {
+          "name":"page2",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"2",
+                "title":{
+                   "default":"Walking as fast as others (family, friends, etc.)",
+                   "ja":"他の人（家族、友人など）と同じ速さで歩く"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"A lot of difficulty",
+                         "ja":"非常に難しかった"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Moderate difficulty",
+                         "ja":"ある程度難しかった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little difficulty",
+                         "ja":"少し難しかった"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"No difficulty",
+                         "ja":"難しくなかった"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week, to what extent have you had difficulty:",
+             "ja":"過去1週間で、下記の事柄がどのくらい難しかったかをお答えください"
+          }
+       },
+       {
+          "name":"page3",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"3",
+                "title":{
+                   "default":"Carrying heavy things, such as books, groceries, or shopping bags",
+                   "ja":"本、食料品、買い物をした袋などの重い物を運ぶ"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"A lot of difficulty",
+                         "ja":"非常に難しかった"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Moderate difficulty",
+                         "ja":"ある程度難しかった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little difficulty",
+                         "ja":"少し難しかった"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"No difficulty",
+                         "ja":"難しくなかった"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week, to what extent have you had difficulty:",
+             "ja":"過去1週間で、下記の事柄がどのくらい難しかったかをお答えください"
+          }
+       },
+       {
+          "name":"page4",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"4",
+                "title":{
+                   "default":"Climbing one flight of stairs",
+                   "ja":"一階分の階段を上る"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"A lot of difficulty",
+                         "ja":"非常に難しかった"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Moderate difficulty",
+                         "ja":"ある程度難しかった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little difficulty",
+                         "ja":"少し難しかった"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"No difficulty",
+                         "ja":"難しくなかった"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week, to what extent have you had difficulty:",
+             "ja":"過去1週間で、下記の事柄がどのくらい難しかったかをお答えください"
+          }
+       },
+       {
+          "name":"page5",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"5",
+                "title":{
+                   "default":"You felt well",
+                   "ja":"調子が良いと感じた"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week, indicate how often:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       },
+       {
+          "name":"page6",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"6",
+                "title":{
+                   "default":"You felt tired .",
+                   "ja":"疲れたと感じた"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week, indicate how often:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       },
+       {
+          "name":"page7",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"7",
+                "title":{
+                   "default":"You felt anxious",
+                   "ja":"不安を感じた"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week, indicate how often:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       },
+       {
+          "name":"page8",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"8",
+                "title":{
+                   "default":"You felt energetic",
+                   "ja":"元気いっぱいだと感じた"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week, indicate how often:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       },
+       {
+          "name":"page9",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"9",
+                "title":{
+                   "default":"You felt exhausted",
+                   "ja":"疲れ果てたと感じた"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week, indicate how often:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       },
+       {
+          "name":"page10",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"10",
+                "title":{
+                   "default":"You felt sad",
+                   "ja":"悲しいと感じた"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week, indicate how often:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       },
+       {
+          "name":"page11",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"11",
+                "title":{
+                   "default":"You felt depressed.",
+                   "ja":"気分が落ち込んでいると感じた"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week, indicate how often:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       },
+       {
+          "name":"currentlyOnTreatment",
+          "elements":[
+             {
+                "type":"boolean",
+                "name":"currentlyOnTreatment",
+                "title":{
+                   "default":"Are you currently on any treatments (such as oral or inhaled medications, PEP or Flutter® device, chest PT, or Vest) for bronchiectasis?",
+                   "ja":"あなたは現在、気管支拡張症の治療、処置をされていますか？（飲み薬または吸入薬、呼気陽圧［PEP］療法用器具またはフラッター® 、体位変換または胸・背中を叩くなどのドレナージ）"
+                },
+                "hideNumber":true,
+                "isRequired":true,
+                "labelTrue":{
+                   "default":"Yes",
+                   "ja":"はい"
+                },
+                "labelFalse":{
+                   "default":"No",
+                   "ja":" いいえ"
+                }
+             }
+          ],
+          "title":{
+             "default":"Section I. Quality of Life",
+             "ja":"第1部 生活の質"
+          }
+       },
+       {
+          "name":"page12",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"12",
+                "title":{
+                   "default":"To what extent do your treatments for bronchiectasis make your daily life more difficult?",
+                   "ja":"気管支拡張症の治療によって、あなたの日常生活はどのくらい妨げられていますか。"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Not at all",
+                         "ja":"影響はまったくない"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"A little",
+                         "ja":"少し"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Moderately",
+                         "ja":"中ぐらい"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"A lot",
+                         "ja":"非常に"
+                      }
+                   }
+                ]
+             }
+          ],
+          "visibleIf":"{currentlyOnTreatment} = true",
+          "title":{
+             "default":"Section I. Quality of Life",
+             "ja":"第1部 生活の質"
+          }
+       },
+       {
+          "name":"page13",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"13",
+                "title":{
+                   "default":"How much time do you currently spend each day on your treatments for bronchiectasis?",
+                   "ja":"あなたは現在、1日のうちどのくらいの時間を気管支拡張症の治療に費やしていますか。"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"A lot",
+                         "ja":"非常に多くの時間"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"A moderate amount",
+                         "ja":"ある程度の時間"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little",
+                         "ja":"少しの時間"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Almost none",
+                         "ja":"ほとんど費やしていない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "visibleIf":"{currentlyOnTreatment} = true",
+          "title":{
+             "default":"Section I. Quality of Life",
+             "ja":"第1部 生活の質"
+          }
+       },
+       {
+          "name":"page14",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"14",
+                "title":{
+                   "default":"How difficult is it for you to fit in your treatments for bronchiectasis each day?",
+                   "ja":"あなたの回答にあてはまる数字に〇をつけてください。各質問につき回答を1つだけ選択してください。"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Not at all",
+                         "ja":"非常に良い"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"A little",
+                         "ja":"良い"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Moderately",
+                         "ja":"あまりよくない"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Very",
+                         "ja":"悪い"
+                      }
+                   }
+                ]
+             }
+          ],
+          "visibleIf":"{currentlyOnTreatment} = true",
+          "title":{
+             "default":"Section I. Quality of Life",
+             "ja":"第1部 生活の質"
+          }
+       },
+       {
+          "name":"page15",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"15",
+                "title":{
+                   "default":"How do you think your health is now?",
+                   "ja":"あなたの現在の健康状態についてどう思いますか。"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Excellent",
+                         "ja":"非常に良い"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Good",
+                         "ja":"良い"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Fair",
+                         "ja":"あまりよくない"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Poor",
+                         "ja":"悪い"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Section I. Quality of Life",
+             "ja":"第1部 生活の質"
+          }
+       },
+       {
+          "name":"page16",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"16",
+                "title":{
+                   "default":"I have to limit vigorous activities, such as walking or exercising",
+                   "ja":"ウォーキングや運動など、活発な活動を制限しなければならなかった"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Completely true",
+                         "ja":"そう思う"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Mostly true",
+                         "ja":"ほぼそう思う"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little true",
+                         "ja":"少しそう思う"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all true",
+                         "ja":"全然そう思わない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Thinking about your health during the past week, indicate the extent to which each sentence is true for you.",
+             "ja":"過去1週間の健康状態を思い出して、各文についてどの程度そう思うかをお答えください。"
+          }
+       },
+       {
+          "name":"page17",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"17",
+                "title":{
+                   "default":"I have to stay at home more than I want to.",
+                   "ja":"調子が良くないので、思うように外出できなかった"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Completely true",
+                         "ja":"そう思う"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Mostly true",
+                         "ja":"ほぼそう思う"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little true",
+                         "ja":"少しそう思う"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all true",
+                         "ja":"全然そう思わない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Thinking about your health during the past week, indicate the extent to which each sentence is true for you.",
+             "ja":"過去1週間の健康状態を思い出して、各文についてどの程度そう思うかをお答えください。"
+          }
+       },
+       {
+          "name":"page18",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"18",
+                "title":{
+                   "default":"I am worried about being exposed to others who are sick.",
+                   "ja":"病気をうつされることが心配で、病気の人と会うことが不安だった"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Completely true",
+                         "ja":"そう思う"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Mostly true",
+                         "ja":"ほぼそう思う"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little true",
+                         "ja":"少しそう思う"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all true",
+                         "ja":"全然そう思わない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Thinking about your health during the past week, indicate the extent to which each sentence is true for you.",
+             "ja":"過去1週間の健康状態を思い出して、各文についてどの程度そう思うかをお答えください。"
+          }
+       },
+       {
+          "name":"page19",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"19",
+                "title":{
+                   "default":"It is difficult to be intimate with a partner (kissing, hugging, sexual activity)",
+                   "ja":"パートナーとの親密なコミュニケーション（キス、抱き合う、性的活動）が難しかった"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Completely true",
+                         "ja":"そう思う"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Mostly true",
+                         "ja":"ほぼそう思う"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little true",
+                         "ja":"少しそう思う"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all true",
+                         "ja":"全然そう思わない"
+                      }
+                   },
+                   {
+                      "value":"6",
+                      "text":{
+                         "default":"Doesn’t apply",
+                         "ja":"あてはまらない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Thinking about your health during the past week, indicate the extent to which each sentence is true for you.",
+             "ja":"過去1週間の健康状態を思い出して、各文についてどの程度そう思うかをお答えください。"
+          }
+       },
+       {
+          "name":"page20",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"20",
+                "title":{
+                   "default":"I lead a normal life",
+                   "ja":"ごく普通の生活をしていた"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Completely true",
+                         "ja":"そう思う"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Mostly true",
+                         "ja":"ほぼそう思う"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little true",
+                         "ja":"少しそう思う"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all true",
+                         "ja":"全然そう思わない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Thinking about your health during the past week, indicate the extent to which each sentence is true for you.",
+             "ja":"過去1週間の健康状態を思い出して、各文についてどの程度そう思うかをお答えください。"
+          }
+       },
+       {
+          "name":"page21",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"21",
+                "title":{
+                   "default":"I am concerned that my health will get worse",
+                   "ja":"自分の健康状態が悪くなることが心配だった"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Completely true",
+                         "ja":"そう思う"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Mostly true",
+                         "ja":"ほぼそう思う"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little true",
+                         "ja":"少しそう思う"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all true",
+                         "ja":"全然そう思わない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Thinking about your health during the past week, indicate the extent to which each sentence is true for you.",
+             "ja":"過去1週間の健康状態を思い出して、各文についてどの程度そう思うかをお答えください。"
+          }
+       },
+       {
+          "name":"page22",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"22",
+                "title":{
+                   "default":"I think my coughing bothers others",
+                   "ja":"私の咳（せき）は人の迷惑になっていると思った"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Completely true",
+                         "ja":"そう思う"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Mostly true",
+                         "ja":"ほぼそう思う"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little true",
+                         "ja":"少しそう思う"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all true",
+                         "ja":"全然そう思わない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Thinking about your health during the past week, indicate the extent to which each sentence is true for you.",
+             "ja":"過去1週間の健康状態を思い出して、各文についてどの程度そう思うかをお答えください。"
+          }
+       },
+       {
+          "name":"page23",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"23",
+                "title":{
+                   "default":"I often feel lonely",
+                   "ja":"よく寂しいと感じた"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Completely true",
+                         "ja":"そう思う"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Mostly true",
+                         "ja":"ほぼそう思う"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little true",
+                         "ja":"少しそう思う"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all true",
+                         "ja":"全然そう思わない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Thinking about your health during the past week, indicate the extent to which each sentence is true for you.",
+             "ja":"過去1週間の健康状態を思い出して、各文についてどの程度そう思うかをお答えください。"
+          }
+       },
+       {
+          "name":"page24",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"24",
+                "title":{
+                   "default":"I feel healthy",
+                   "ja":"健康だと感じた."
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Completely true",
+                         "ja":"そう思う"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Mostly true",
+                         "ja":"ほぼそう思う"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little true",
+                         "ja":"少しそう思う"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all true",
+                         "ja":"全然そう思わない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Thinking about your health during the past week, indicate the extent to which each sentence is true for you.",
+             "ja":"過去1週間の健康状態を思い出して、各文についてどの程度そう思うかをお答えください。"
+          }
+       },
+       {
+          "name":"page25",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"25",
+                "title":{
+                   "default":"It is difficult to make plans for the future (vacation, attending family events, etc.)",
+                   "ja":"今後の計画を立てることが難しかった（休暇、家族の行事への参加など）"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Completely true",
+                         "ja":"そう思う"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Mostly true",
+                         "ja":"ほぼそう思う"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little true",
+                         "ja":"少しそう思う"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all true",
+                         "ja":"全然そう思わない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Thinking about your health during the past week, indicate the extent to which each sentence is true for you.",
+             "ja":"過去1週間の健康状態を思い出して、各文についてどの程度そう思うかをお答えください。"
+          }
+       },
+       {
+          "name":"page26",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"26",
+                "title":{
+                   "default":"I feel embarrassed when I am coughing",
+                   "ja":"咳（せき）をする時に恥ずかしいと感じた."
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Completely true",
+                         "ja":"そう思う"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Mostly true",
+                         "ja":"ほぼそう思う"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little true",
+                         "ja":"少しそう思う"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all true",
+                         "ja":"全然そう思わない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Thinking about your health during the past week, indicate the extent to which each sentence is true for you.",
+             "ja":"過去1週間の健康状態を思い出して、各文についてどの程度そう思うかをお答えください。"
+          }
+       },
+       {
+          "name":"page27",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"27",
+                "title":{
+                   "default":"To what extent did you have trouble keeping up with your job, housework, or other daily activities?",
+                   "ja":"仕事、家事、その他の日常活動のペースを保つことは、どの程度難しかったですか。"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"You have had no trouble keeping up",
+                         "ja":"難しくなかった"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"You have managed to keep up but it’s been difficult",
+                         "ja":"なんとかペースを保てたが、難しかった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"You have been behind",
+                         "ja":"いつも通りにできなかった"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"You have not been able to do these activities at all",
+                         "ja":"これらの活動は少しもできなかった"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"During the past week:",
+             "ja":"第1部 生活の質"
+          }
+       },
+       {
+          "name":"page28",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"28",
+                "title":{
+                   "default":"How often does having bronchiectasis get in the way of meeting your work, household, family, or personal goals?",
+                   "ja":"気管支拡張症があなたの仕事、家事、家族、個人的な目標の障害になた頻度をお答えください。"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Section I. Quality of Life",
+             "ja":"第1部 生活の質"
+          }
+       },
+       {
+          "name":"page29",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"29",
+                "title":{
+                   "default":"Have you felt congestion in your chest?",
+                   "ja":"痰がつかえた感じがしたことがありましたか"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"A lot",
+                         "ja":"大変多かった "
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"A moderate amount",
+                         "ja":"ある程度あった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little",
+                         "ja":"少しあった"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all",
+                         "ja":"全くなかった"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Indicate how you have been feeling during the past week:",
+             "ja":"過去1週間で、あなたがどう感じたかをお答えください。"
+          }
+       },
+       {
+          "name":"page30",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"30",
+                "title":{
+                   "default":"Have you been coughing during the day? .",
+                   "ja":"日中に咳（せき）がでたことがありましたか"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"A lot",
+                         "ja":"大変多かった "
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"A moderate amount",
+                         "ja":"ある程度あった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little",
+                         "ja":"少しあった"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all",
+                         "ja":"全くなかった"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Indicate how you have been feeling during the past week:",
+             "ja":"過去1週間で、あなたがどう感じたかをお答えください。"
+          }
+       },
+       {
+          "name":"page31",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"31",
+                "title":{
+                   "default":"Have you had to cough up mucus?",
+                   "ja":"咳をして痰（たん）を出さなければならないことがありましたか"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"A lot",
+                         "ja":"大変多かった "
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"A moderate amount",
+                         "ja":"ある程度あった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"A little",
+                         "ja":"少しあった"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Not at all",
+                         "ja":"全くなかった"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Indicate how you have been feeling during the past week:",
+             "ja":"過去1週間で、あなたがどう感じたかをお答えください。"
+          }
+       },
+       {
+          "name":"page32",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"32",
+                "title":{
+                   "default":"Has your sputum been mostly:",
+                   "ja":"大体の場合、痰（たん）の状態はどんな感じでしたか？"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Clear",
+                         "ja":"透明"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Clear to yellow",
+                         "ja":"透明～黄色 "
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Yellowish-green",
+                         "ja":"黄緑色"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Brownish-dark",
+                         "ja":"茶色～こげ茶色 "
+                      }
+                   },
+                   {
+                      "value":"5",
+                      "text":{
+                         "default":"Green with traces of blood",
+                         "ja":"血の混じった緑色"
+                      }
+                   },
+                   {
+                      "value":"6",
+                      "text":{
+                         "default":"Don't know",
+                         "ja":"わからない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"Section II. Respiratory Symptoms",
+             "ja":"第1部 生活の質 "
+          }
+       },
+       {
+          "name":"page33",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"33",
+                "title":{
+                   "default":"Have you had shortness of breath with greater activity, such as housework or yardwork? .",
+                   "ja":"家事や庭仕事などをした時に、時間の経過と共に息切れした"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"How often during the past week:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       },
+       {
+          "name":"page34",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"34",
+                "title":{
+                   "default":"Have you been wheezing?",
+                   "ja":"ぜいぜい、ヒューヒューという音がした"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"How often during the past week:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       },
+       {
+          "name":"page35",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"35",
+                "title":{
+                   "default":"Have you had chest pain?",
+                   "ja":"胸が痛かった"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"How often during the past week:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       },
+       {
+          "name":"page36",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"36",
+                "title":{
+                   "default":"Have you had shortness of breath when talking?",
+                   "ja":"話をするときに息切れした"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"How often during the past week:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       },
+       {
+          "name":"page37",
+          "elements":[
+             {
+                "type":"radiogroup",
+                "name":"37",
+                "title":{
+                   "default":"Have you woken up during the night because you were coughing?",
+                   "ja":"夜に咳が出て、目が覚めた"
+                },
+                "isRequired":true,
+                "choices":[
+                   {
+                      "value":"1",
+                      "text":{
+                         "default":"Always",
+                         "ja":"常に"
+                      }
+                   },
+                   {
+                      "value":"2",
+                      "text":{
+                         "default":"Often",
+                         "ja":"よくあった"
+                      }
+                   },
+                   {
+                      "value":"3",
+                      "text":{
+                         "default":"Sometimes",
+                         "ja":"ときどき"
+                      }
+                   },
+                   {
+                      "value":"4",
+                      "text":{
+                         "default":"Never",
+                         "ja":"一度もない"
+                      }
+                   }
+                ]
+             }
+          ],
+          "title":{
+             "default":"How often during the past week:",
+             "ja":"過去1週間で、下記のように感じた頻度をお答えください。"
+          }
+       }
+    ],
+    "showProgressBar":"top"
+ }
